@@ -37,10 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/guidev1989/guidev1989/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Algum projeto interessante em mente? 👇</h2>
 
 ###
@@ -57,4 +53,3 @@
   </a>
 </div>
 
-###
