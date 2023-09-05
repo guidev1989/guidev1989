@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Estudante Recode Pro 2023<br>🎯 Meu objetivo é fazer transição de carreira<br>🎲 Gosto de jogar videogames antigos</p>
+<p align="left">📚 Estudante Recode Pro 2023<br>🎯 Meu objetivo atual é fazer transição de carreira<br>🎲 Gosto de jogar videogames antigos</p>
 
 ###
 
