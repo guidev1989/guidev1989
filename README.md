@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Estudante Recode Pro 2023<br>📚 Estudante de Análise e Desenvolvimento de Sistemas <br>🎯 Meu objetivo atual é fazer transição de carreira<br>🎲 Gosto de jogar videogames antigos</p>
+<p align="left">📚 Estudante Recode Pro 2023<br>📚 Estudante de Análise e Desenvolvimento de Sistemas <br>🎯 Imagine ter um talentoso e dedicado desenvolvedor de sistemas na sua equipe, pronto para enfrentar desafios e entregar soluções inovadoras<br>🎲 Gosto de jogar videogames antigos</p>
 
 ###
 
